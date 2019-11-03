@@ -8,3 +8,5 @@ master --> release
 
 1) Mini API Project
 2) Mini Pandas Project
+3) JSON Mini projects
+4) Spark -SQL mini project
