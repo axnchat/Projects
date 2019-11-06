@@ -10,3 +10,4 @@ master --> release
 2) Mini Pandas Project
 3) JSON Mini projects
 4) Spark -SQL mini project
+5) Data Wrangling at Scale with Spark
