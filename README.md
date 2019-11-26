@@ -12,3 +12,4 @@ master --> release
 4) Spark -SQL mini project
 5) Data Wrangling at Scale with Spark
 6) Linear Regression Mini Project
+7) Logistic Regression Mini Project
