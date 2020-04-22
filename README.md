@@ -13,3 +13,6 @@ master --> release
 5) Data Wrangling at Scale with Spark
 6) Linear Regression Mini Project
 7) Logistic Regression Mini Project
+8) Clustering
+9) Random Forest
+10) Spark at scale
